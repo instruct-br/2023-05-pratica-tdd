@@ -44,6 +44,13 @@ Uma contribuição não pode ser maior do que o teto do INSS no mês em que a co
 
 https://previdenciarista.com/blog/tabela-historica-de-tetos-previdenciarios-da-previdencia-social-inss-a-partir-de-1994/
 
+
+### Revisão da Vida Toda
+
+Adicione uma variação no cálculo básico que considera também as contribuções anteriores à 07/1994, sem teto.
+
+Com essa última regra implementada é possível comparar o valor recebido por alguém que se aposentou até 12/11/2019 com e sem a revisão para determinar se é ou não vantajoso pedir a revisão.
+
 ---
 
 | ⚠️ | Destaque novamente para o termo "calculadora simplificada", com ênfase no _simplificada_. O software desenvolvido como resultado deste exercício não deve ser usado para determinar se é ou não vantajoso entrar com um pedido de revisão. Alguns valores foram fixados, não há correções monetárias e diversas regras não foram sequer mencionadas. Um pedido de revisão incorreto pode **diminuir** o valor do benefício recebido. O exercício, apesar de se basear em acontecimentos da realidade, tem como objetivo apenas praticar o desenvolvimento de um programa com um conjunto mínimo de regras de negócio.  |
